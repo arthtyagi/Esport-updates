@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/arthtyagi/Esport-updates) 
+
 # Esport-Updates
 [ Esport here ] Scores and updates of a team in Rust.
 
